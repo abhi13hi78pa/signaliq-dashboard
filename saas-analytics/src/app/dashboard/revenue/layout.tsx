@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "SaaS Analytics Revenue",
-  description: "Open-source analytics platform.",
+  title: "SignalIQ Revenue",
+  description: "SignalIQ — B2B Sales Intelligence & Analytics Platform",
 };
 
 export default function RootLayout({

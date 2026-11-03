@@ -1,4 +1,4 @@
-# Contributing to SaaS Analytics Platform
+# Contributing to SignalIQ
 
 First of all, **thank you for considering contributing** to this project! Your help makes this platform better for everyone.
 
@@ -9,7 +9,7 @@ First of all, **thank you for considering contributing** to this project! Your h
 There are several ways to contribute:
 
 ### 🐛 Reporting Bugs
-- Check the [issues](https://github.com/AysoDev/saas-analytics/issues) to see if it’s already reported.
+- Check the [issues](https://github.com/abhi13hi78pa/signaliq-dashboard/issues) to see if it’s already reported.
 - Open a new issue with:
   - A clear title
   - Steps to reproduce the bug
@@ -17,7 +17,7 @@ There are several ways to contribute:
   - Screenshots or logs if applicable
 
 ### 💡 Suggesting Features
-- Check the [issues](https://github.com/AysoDev/saas-analytics/issues) for existing suggestions.
+- Check the [issues](https://github.com/abhi13hi78pa/signaliq-dashboard/issues) for existing suggestions.
 - Open a new issue with:
   - Feature description
   - Use case or problem it solves
@@ -27,14 +27,14 @@ There are several ways to contribute:
 1. Fork the repository
 2. Clone your fork locally
    ```bash
-   git clone https://github.com/AysoDev/saas-analytics.git
+   git clone https://github.com/YOUR-USERNAME/signaliq-dashboard.git
    ```
 3. Create a branch for your feature/fix
    ```bash
    git checkout -b feature/amazing-feature
    ```
 4. Make your changes
-5. Run tests and linting
+5. Run the build and lint from the application folder with `pnpm build` and `pnpm lint`
 6. Commit your changes
    ```bash
    git commit -m "Add amazing feature"
@@ -83,4 +83,4 @@ Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to ensure a welcoming e
 
 ## 🌟 Thank You!
 
-Your contributions, no matter how small, are valuable! Thank you for helping improve **SaaS Analytics Platform**.
+Your contributions, no matter how small, are valuable! Thank you for helping improve **SignalIQ**.

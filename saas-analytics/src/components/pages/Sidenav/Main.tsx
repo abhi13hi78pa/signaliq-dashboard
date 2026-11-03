@@ -77,11 +77,11 @@ export const Sidenav = ({ isOpen, onToggle }: SidenavProps) => {
             <Image
                 width={35}
                 height={35}
-                src={'/aysodev.png'}
-                alt='AysoDev Logo'
+                src={'/signaliq.svg'}
+                alt='SignalIQ logo'
                 className='sidenav-logo'
             />
-            {isOpen && <h2 className="sidenav-title">SaaS Analytics</h2>}
+            {isOpen && <h2 className="sidenav-title">SignalIQ</h2>}
           </div>
           { isOpen ? (<button 
             className="sidenav-toggle"

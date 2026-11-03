@@ -71,7 +71,7 @@ export default function NotFound() {
               <Mail className="w-6 h-6" />
             </a>
             <a
-              href="https://github.com/AysoDev/saas-analytics"
+              href="https://github.com/abhi13hi78pa/signaliq-dashboard"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -85,7 +85,7 @@ export default function NotFound() {
         {/* Footer */}
         <div className="mt-8">
           <p className="text-slate-400 dark:text-slate-600 text-xs">
-            SaaS Analytics Platform • Built with Next.js
+            SignalIQ • Built with Next.js
           </p>
         </div>
       </div>

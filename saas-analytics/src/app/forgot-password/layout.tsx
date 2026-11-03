@@ -9,8 +9,8 @@ const NunitoSans = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "SaaS Analytics | Reset Password",
-  description: "Open-source analytics platform.",
+  title: "SignalIQ | Reset Password",
+  description: "SignalIQ — B2B Sales Intelligence & Analytics Platform",
 };
 
 export default function RootLayout({

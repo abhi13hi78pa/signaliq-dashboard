@@ -1,5 +1,6 @@
 {
-  "name": "saas-analytics",
+  "name": "signaliq-dashboard",
+  "description": "SignalIQ — B2B Sales Intelligence & Analytics Platform",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -1,6 +1,6 @@
 [<img src="https://saas-analytics-admin.vercel.app/aysodev.png" alt="AysoDev" width="50" height="50">](https://aysodev.vercel.app)
 
-# 📊 SaaS Analytics Platform
+# SignalIQ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-13.0+-black?style=for-the-badge&logo=next.js" alt="Next.js">
@@ -181,8 +181,8 @@ saas-analytics/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/AysoDev/saas-analytics.git
-cd saas-analytics
+git clone https://github.com/abhi13hi78pa/signaliq-dashboard.git
+cd signaliq-dashboard/saas-analytics
 ```
 
 2. **Install dependencies**
@@ -199,7 +199,7 @@ pnpm run dev
 
 ---
 
-## Live Demo
+## Upstream Demo
 
 > [View Live Demo](https://saas-analytics-admin.vercel.app)
 
@@ -227,4 +227,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 If you find this project useful, please give it a ⭐ on GitHub to help others discover it!  
 
-Connect with me: [GitHub @AysoDev](https://github.com/AysoDev)  
+Original author: [GitHub @AysoDev](https://github.com/AysoDev)

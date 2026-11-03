@@ -98,12 +98,12 @@ export const ForgotPassword = () => {
         <div className="forgot-password-header">
           <div className="forgot-password-logo">
             <Image
-                src={"/aysodev.png"}
+                src={"/signaliq.svg"}
                 width={40}
                 height={40}
-                alt='AysoDev Logo'
+                alt='SignalIQ logo'
             />
-            <span>SaaS Analytics</span>
+            <span>SignalIQ</span>
           </div>
           <h1 className="forgot-password-title">Reset your password</h1>
           <p className="forgot-password-subtitle">

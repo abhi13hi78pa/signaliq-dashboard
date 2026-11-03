@@ -95,12 +95,12 @@ export const Login = () => {
         <div className="login-header">
           <div className="login-logo">
             <Image
-                src={'/aysodev.png'}
+                src={'/signaliq.svg'}
                 width={40}
                 height={40}
-                alt='AysoDev Logo'
+                alt='SignalIQ logo'
             />
-            <span>SaaS Analytics</span>
+            <span>SignalIQ</span>
           </div>
           <h1 className="login-title">Admin Portal</h1>
           <p className="login-subtitle">Sign in to access your analytics dashboard</p>
