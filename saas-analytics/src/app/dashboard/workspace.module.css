@@ -1,0 +1,19 @@
+.workspace { max-width: 68rem; margin: auto; padding: clamp(1rem, 4vw, 3rem); }
+.workspace h1 { font-size: clamp(2rem, 5vw, 3.25rem); font-weight: 800; line-height: 1.15; }
+.eyebrow { font-weight: 750; text-transform: uppercase; letter-spacing: .09em; font-size: .75rem; margin-bottom: .75rem; }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); gap: 1rem; margin: 2rem 0; }
+.metrics div, .card { padding: 1.25rem; border: 1px solid currentColor; border-radius: 1rem; }
+.metrics dd { font-size: 2rem; font-weight: 800; }
+.toolbar { display: flex; gap: 1rem; flex-wrap: wrap; align-items: end; margin-bottom: .75rem; }
+.toolbar label { font-weight: 700; }
+.toolbar input[type='search'] { display: block; border: 1px solid currentColor; border-radius: .5rem; padding: .6rem; margin-top: .35rem; width: min(100%, 20rem); }
+.checkbox, .cardHeading { display: flex; gap: .65rem; align-items: center; flex-wrap: wrap; }
+.list { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr)); gap: 1rem; margin-top: 1rem; }
+.card { display: grid; gap: .85rem; align-content: start; }
+.cardHeading { justify-content: space-between; }
+.card h2 { font-size: 1.25rem; font-weight: 800; }
+.score { background: #dbeafe; color: #16346d; border-radius: 2rem; padding: .3rem .65rem; font-size: .8rem; font-weight: 750; }
+.card summary { cursor: pointer; font-weight: 700; }
+.card button { justify-self: start; border: 1px solid currentColor; border-radius: .5rem; padding: .45rem .8rem; cursor: pointer; }
+.card button[aria-pressed='true'] { background: #176043; color: white; }
+.workspace :is(input, summary, button):focus-visible { outline: 3px solid #4278ff; outline-offset: 3px; }

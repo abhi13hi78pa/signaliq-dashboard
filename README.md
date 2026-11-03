@@ -228,3 +228,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 If you find this project useful, please give it a ⭐ on GitHub to help others discover it!  
 
 Original author: [GitHub @AysoDev](https://github.com/AysoDev)
+
+## Portfolio case study
+
+[Explore the Account Priorities workflow and design decisions](PORTFOLIO.md).
